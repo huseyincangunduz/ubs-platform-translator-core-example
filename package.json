@@ -1,0 +1,9 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@ubs-platform/translator-core": "^1.0.4",
+    "rxjs": "^7.8.1"
+  }
+}
